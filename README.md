@@ -54,6 +54,10 @@ url-shortener-page/
 ## ℹ️ Example Deployment
 
 - ✅ Live Demo: [Click Here](https://SudoR2spr.github.io/url-shortener-page/)
+
+- ## 📸 Preview Screenshot
+
+<img src="https://i.ibb.co/pvZdnDfN/oh-bhai.jpg" alt="Preview Screenshot" width="300" height="300">
 ---
 
 ## ❗ Common Issues & Fixes
